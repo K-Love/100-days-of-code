@@ -1,12 +1,20 @@
 **100 Days Of Code - Log**
 
+**Day 3: January 4, 2018**
+
+**Today's Progress:** Tested the API with Postman. Created a HTTP Service and a promise.
+
+**Thoughts:** The binding in ES6 will take a little getting used to.
+
+**Link To Work:** https://github.com/K-Love/swag-shop
+
 **Day 2: January 3, 2018**
 
 **Today's Progress:** Installed jQuery, Bootstrap, Tether, and React Developer Tools. Also set up the API for the back end.
 
 **Thoughts:** This was another day mostly about setup. The project also requires MongoDB, which I already had installed. Smooth sailing so far.
 
-**Link to work:** https://github.com/K-Love/swag-shop
+**Link To Work:** https://github.com/K-Love/swag-shop
 
 
 **Day 1: January 2, 2018**
@@ -15,4 +23,4 @@
 
 **Thoughts:** I've had ReactJS on my mind for a while now, but haven't jumped on it. It feels good to start a project and learn this framework since it's gaining so much popularity. The setup was pretty easy with create-react-app. I like the sound of how these components are going to work.
 
-**Link to work:** https://github.com/K-Love/swag-shop
+**Link To work:** https://github.com/K-Love/swag-shop
