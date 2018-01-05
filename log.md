@@ -1,5 +1,14 @@
 **100 Days Of Code - Log**
 
+**Day 4: January 5, 2018**
+
+**Today's Progress:** Created a "product" component for the shop. Used classes from Bootstrap.
+
+**Thoughts:** Thinking more and more about components and how they can be used and reused.
+
+**Link To Work:** https://github.com/K-Love/swag-shop
+
+
 **Day 3: January 4, 2018**
 
 **Today's Progress:** Tested the API with Postman. Created a HTTP Service and a promise.
