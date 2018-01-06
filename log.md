@@ -1,5 +1,15 @@
 **100 Days Of Code - Log**
 
+**Day 5: January 6, 2018**
+
+**Today's Progress:** Used props in React to display product info.
+
+**Thoughts:** Smooth sailing so far.
+
+**Link To Work:** https://github.com/K-Love/swag-shop
+
+
+
 **Day 4: January 5, 2018**
 
 **Today's Progress:** Created a "product" component for the shop. Used classes from Bootstrap.
@@ -7,6 +17,7 @@
 **Thoughts:** Thinking more and more about components and how they can be used and reused.
 
 **Link To Work:** https://github.com/K-Love/swag-shop
+
 
 
 **Day 3: January 4, 2018**
@@ -17,6 +28,8 @@
 
 **Link To Work:** https://github.com/K-Love/swag-shop
 
+
+
 **Day 2: January 3, 2018**
 
 **Today's Progress:** Installed jQuery, Bootstrap, Tether, and React Developer Tools. Also set up the API for the back end.
@@ -24,6 +37,7 @@
 **Thoughts:** This was another day mostly about setup. The project also requires MongoDB, which I already had installed. Smooth sailing so far.
 
 **Link To Work:** https://github.com/K-Love/swag-shop
+
 
 
 **Day 1: January 2, 2018**
