@@ -1,5 +1,13 @@
 **100 Days Of Code - Log**
 
+**Day 7: January 9, 2018**
+
+**Today's Progress:** Creating a WishList component. To be continued...
+
+**Link To Work:** https://github.com/K-Love/swag-shop
+
+
+
 **Day 6: January 8, 2018**
 
 **Today's Progress:** Worked with state in ReactJS to get product data from the api.
