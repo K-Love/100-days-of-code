@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 9: January 11, 2018**
+
+**Today's Progress:** Struggling trying to get past errors with the provided api and images, as well as the product-condensed.js file.
+
+
+
 **Day 8: January 10, 2018**
 
 **Today's Progress:** Creating a WishList component Part 2 and trying to make sense of video tutorials!
