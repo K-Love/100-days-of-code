@@ -1,5 +1,12 @@
 **100 Days Of Code - Log**
 
+**Day 8: January 10, 2018**
+
+**Today's Progress:** Creating a WishList component Part 2 and trying to make sense of video tutorials!
+
+
+
+
 **Day 7: January 9, 2018**
 
 **Today's Progress:** Creating a WishList component. To be continued...
