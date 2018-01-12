@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 10: January 12, 2018**
+
+**Today's Progress:** Built a singleton data service - more backend stuff to make the shop update the wish list when a product is added to it.
+
+
+
 **Day 9: January 11, 2018**
 
 **Today's Progress:** Struggling trying to get past errors with the provided api and images, as well as the product-condensed.js file.
