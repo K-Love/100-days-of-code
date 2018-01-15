@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 13: January 15, 2018**
+
+**Today's Progress:** Observing notifications in React. Got rid of the dummy data in the wishlist. Triggered an event when Add to Wishlist is clicked to bring in real product data.
+
+
+
 **Day 12: January 14, 2018**
 
 **Today's Progress:** Posting notifications to React components
