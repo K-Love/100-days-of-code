@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 12: January 14, 2018**
+
+**Today's Progress:** Posting notifications to React components
+
+
+
 **Day 11: January 13, 2018**
 
 **Today's Progress:** Created a notification service.
