@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 14: January 16, 2018**
+
+**Today's Progress:** Made the Add to WishList button change to Remove and turn red when clicked. Not quite there. Finishing tonight or tomorrow.
+
+
+
 **Day 13: January 15, 2018**
 
 **Today's Progress:** Observing notifications in React. Got rid of the dummy data in the wishlist. Triggered an event when Add to Wishlist is clicked to bring in real product data.
