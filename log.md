@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 14: January 17, 2018**
+
+**Today's Progress:** Finished up the Intro to React course. Going to use this newfound knowledge to build a gluten free recipe app.
+
+
+
 **Day 14: January 16, 2018**
 
 **Today's Progress:** Made the Add to WishList button change to Remove and turn red when clicked. Not quite there. Finishing tonight or tomorrow.
