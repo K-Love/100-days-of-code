@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 16: January 18, 2018**
+
+Set up React for a new project. Building a gluten free recipe site where people can submit recipes and rank or vote them up.
+
+
+
 **Day 15: January 17, 2018**
 
 **Today's Progress:** Finished up the Intro to React course. Going to use this newfound knowledge to build a gluten free recipe app.
