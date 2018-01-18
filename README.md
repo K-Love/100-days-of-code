@@ -1,4 +1,4 @@
-# I'm Doing the #100DaysOfCode Challenge to Get Up to Speed with ReactJS
+# #100DaysOfCode Challenge to Get Up to Speed with ReactJS
 
 ## Contents
 * [Rules](rules.md)
