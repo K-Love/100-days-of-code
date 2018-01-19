@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 17: January 19, 2018**
+
+Continued work on the front end of the gluten free recipe project in React.
+
+
+
 **Day 16: January 18, 2018**
 
 Set up React for a new project. Building a gluten free recipe site where people can submit recipes and rank or vote them up.
