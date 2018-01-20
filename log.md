@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 18: January 20, 2018**
+
+The front end / UI is coming together.
+
+
+
 **Day 17: January 19, 2018**
 
 Continued work on the front end of the gluten free recipe project in React.
