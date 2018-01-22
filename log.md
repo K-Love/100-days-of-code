@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 19: January 22, 2018**
+
+Still working on the front end.
+
+
+
 **Day 18: January 20, 2018**
 
 The front end / UI is coming together.
