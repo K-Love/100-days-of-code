@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 20: January 23, 2018**
+
+Created a firebase account and started to get familiar with it.
+
+
+
 **Day 19: January 22, 2018**
 
 Still working on the front end.
