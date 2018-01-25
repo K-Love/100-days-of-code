@@ -1,5 +1,10 @@
 **100 Days Of Code - Log**
 
+**Day 22: January 25, 2018**
+
+More layout work and content gathering.
+
+
 **Day 21: January 24, 2018**
 
 A little React tinkering and some content gathering.
