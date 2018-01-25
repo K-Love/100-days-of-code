@@ -1,5 +1,9 @@
 **100 Days Of Code - Log**
 
+**Day 21: January 24, 2018**
+
+A little React tinkering and some content gathering.
+
 **Day 20: January 23, 2018**
 
 Created a firebase account and started to get familiar with it.
