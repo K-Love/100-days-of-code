@@ -1,5 +1,9 @@
 **100 Days Of Code - Log**
 
+**Day 23: January 26, 2018**
+
+Server side rendering and react-router.
+
 **Day 22: January 25, 2018**
 
 More layout work and content gathering.
