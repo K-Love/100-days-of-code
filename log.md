@@ -1,6 +1,11 @@
 **100 Days Of Code - Log**
 
-**Day 24: January 26, 2018**
+**Day 25: January 29, 2018**
+
+Trying to find a different way to bind methods. Getting a ton of errors with decorators.
+
+
+**Day 24: January 28, 2018**
 
 Looking into Firebase hosting to go along with the database.
 
