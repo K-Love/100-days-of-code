@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 27: January 31, 2018**
+
+Handling authentication in React and Firebase. Got Facebook set up. Twitter and email to come.
+
+
+
 **Day 26: January 30, 2018**
 
 Set up Flux/ALT to work with Firebase.
