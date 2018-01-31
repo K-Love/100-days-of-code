@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 26: January 30, 2018**
+
+Set up Flux/ALT to work with Firebase.
+
+
+
 **Day 25: January 29, 2018**
 
 Trying to find a different way to bind methods. Getting a ton of errors with decorators.
