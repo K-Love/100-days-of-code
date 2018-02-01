@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 28: February 1, 2018**
+
+Set up routes to handle the user authentication system, and for other pages like About, FAQ, Contact, etc.
+
+
+
 **Day 27: January 31, 2018**
 
 Handling authentication in React and Firebase. Got Facebook set up. Twitter and email to come.
