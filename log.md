@@ -1,5 +1,9 @@
 **100 Days Of Code - Log**
 
+**Day 29: February 2, 2018**
+
+Getting deeper into dev tools for javascript debugging.
+
 **Day 28: February 1, 2018**
 
 Set up routes to handle the user authentication system, and for other pages like About, FAQ, Contact, etc.
