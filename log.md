@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 30: February 3, 2018**
+
+Set up email user authentication in react and firebase.
+
+
+
 **Day 29: February 2, 2018**
 
 Getting deeper into dev tools for javascript debugging.
