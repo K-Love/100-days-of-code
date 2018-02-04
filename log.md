@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 31: February 4, 2018**
+
+Working on Twitter authentication to go along with Facebook and email.
+
+
+
 **Day 30: February 3, 2018**
 
 Set up email user authentication in react and firebase.
