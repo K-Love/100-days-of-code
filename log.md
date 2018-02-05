@@ -1,5 +1,10 @@
 **100 Days Of Code - Log**
 
+**Day 32: February 5, 2018**
+
+Still wrestling with authentication and protected routes.
+
+
 **Day 31: February 4, 2018**
 
 Working on Twitter authentication to go along with Facebook and email.
