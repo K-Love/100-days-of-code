@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 33: February 6, 2018**
+
+Took a little break from authentication and worked on the visual design.
+
+
+
 **Day 32: February 5, 2018**
 
 Still wrestling with authentication and protected routes.
