@@ -1,5 +1,9 @@
 **100 Days Of Code - Log**
 
+**Days 34-38: February 7-10, 2018**
+More work on the visual design and layout.
+
+
 **Day 33: February 6, 2018**
 
 Took a little break from authentication and worked on the visual design.
