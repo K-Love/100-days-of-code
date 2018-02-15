@@ -1,5 +1,9 @@
 **100 Days Of Code - Log**
 
+**Days 39-43: February 10-14, 2018**
+
+Worked on search and authentication
+
 **Days 34-38: February 7-10, 2018**
 
 More work on the visual design and layout.
