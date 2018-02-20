@@ -1,5 +1,9 @@
 **100 Days Of Code - Log**
 
+**Days 44-49: February 15-20, 2018**
+
+Looked into Elasticsearch and other options for the gluten free app.
+
 **Days 39-43: February 10-14, 2018**
 
 Worked on search and authentication
