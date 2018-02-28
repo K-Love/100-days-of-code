@@ -1,6 +1,10 @@
 **100 Days Of Code - Log**
 
-**Days 50-56: February 21-27**
+**Day 57: February 28, 2018**
+
+Getting to know Git so I can keep track of this project a little better.
+
+**Days 50-56: February 21-27, 2018**
 
 It's been more of the same for the last several days. Tying up loose ends with search and authentication. Working to bring it all together.
 
