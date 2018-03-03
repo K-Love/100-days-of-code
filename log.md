@@ -1,5 +1,10 @@
 **100 Days Of Code - Log**
 
+**Days 58-59: March 1-2, 2018**
+
+Putting branches to use with #GIT.
+
+
 **Day 57: February 28, 2018**
 
 Getting to know Git so I can keep track of this project a little better.
