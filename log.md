@@ -1,5 +1,10 @@
 **100 Days Of Code - Log**
 
+**Days 60-62: March 3-5, 2018**
+Refactoring some things into new components, like Main and some new pages to use with routes.
+
+
+
 **Days 58-59: March 1-2, 2018**
 
 Putting branches to use with #GIT.
