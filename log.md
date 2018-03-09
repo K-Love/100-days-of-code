@@ -1,5 +1,10 @@
 **100 Days Of Code - Log**
 
+**Days 63-66: March 6-9**
+
+So many bugs to fix!
+
+
 **Days 60-62: March 3-5, 2018**
 
 Refactoring some things into new components, like Main and some new pages to use with routes.
