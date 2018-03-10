@@ -1,5 +1,11 @@
 **100 Days Of Code - Log**
 
+**Day 67: March 10, 2018**
+
+Finally got routes working with an addition to the Express server file.
+
+
+
 **Days 63-66: March 6-9, 2018**
 
 So many bugs to fix!
