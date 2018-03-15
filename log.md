@@ -1,5 +1,9 @@
 **100 Days Of Code - Log**
 
+**Days 68-71: March 11-14, 2018**
+
+Routes still seem to be okay, but something is off with authentication. I can't tell that I'm a signed in user.
+
 **Day 67: March 10, 2018**
 
 Finally got routes working with an addition to the Express server file.
