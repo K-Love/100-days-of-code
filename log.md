@@ -1,5 +1,10 @@
 **100 Days Of Code - Log**
 
+**Days 72-73: March 15-16, 2018**
+
+Continuing the battle to have the user status in the top right.
+
+
 **Days 68-71: March 11-14, 2018**
 
 Routes still seem to be okay, but something is off with authentication. I can't tell that I'm a signed in user.
