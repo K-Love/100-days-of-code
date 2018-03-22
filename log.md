@@ -1,5 +1,9 @@
 **100 Days Of Code - Log**
 
+**Days 74-79: March 17-22, 2018**
+
+Finished the Mobile Web Specialist Challenge with Udacity and Google.
+
 **Days 72-73: March 15-16, 2018**
 
 Continuing the battle to have the user status in the top right.
