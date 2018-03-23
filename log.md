@@ -1,8 +1,13 @@
 **100 Days Of Code - Log**
 
+**Day 80: March 23, 2018**
+
+Thinking about using only email for authentication, just so I can get a MVP going.
+
 **Days 74-79: March 17-22, 2018**
 
 Finished the Mobile Web Specialist Challenge with Udacity and Google.
+
 
 **Days 72-73: March 15-16, 2018**
 
