@@ -1,5 +1,14 @@
 **100 Days Of Code - Log**
 
+**Day 82: April 19, 2018**
+
+Decorators stopped working. Either need to figure it out soon or try to write those parts with without them.
+
+**Day 81: April 17, 2018**
+
+Found out I was selected for a scholarship for the full Mobile Web Specialist course.
+
+
 **Day 80: March 23, 2018**
 
 Thinking about using only email for authentication, just so I can get a MVP going.
